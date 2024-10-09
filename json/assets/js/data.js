@@ -27,7 +27,7 @@ $(document).ready(function(){
     $.ajax({
         url: "assets/data.json",
         type: "get",
-        success: function(brands){ // Corrected from 'sucess' to 'success'
+        success: function(brands){ 
             let x = "";
             $.each(brands, function(keys, arrays){
                 $.each(arrays, function(index, objects){
@@ -37,13 +37,13 @@ $(document).ready(function(){
                                 <div class="card-body">
                                     <h4 class="card-title">${objects.name}</h4>
                                     <p class="card-text">${objects.price}</p>
-                                    <button classs="btn btn-primary">Click here</button>
+                                    <a href="detail.html?product=${keys+index}" class="btn btn-info" >details</a>
                                 </div>
                             </div>
                         </div>`;
                 });
             });
-            $("#carddata").html(x); // Also added # to the selector for the correct ID targeting
+            $("#carddata").html(x); 
         }
     });
 });

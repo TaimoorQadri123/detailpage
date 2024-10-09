@@ -1,7 +1,7 @@
 {
     "apple": [
         {
-            "name": "Apple iphone 11",
+            "name": "Apple iphone 11 pros",
             "price": "14456",
             "description": "Apple will bring its new iPhone 14 which has got a moniker Pro Max at the end. The American smartphone company Apple is working on the next-generation device. The leaks come from Jon Prosser, who said that Apple will introduce its new series of phones in 2022. The coming smartphone will be called Apple iPhone 14 Pro Max. The handset got a Chipset of Apple A16 Bionic which is the most powerful chipset and to give more power to this device it has a 3.1 GHz Hexa Core processor inside the Apple's iPhone 14 Pro Max to make the",
             "image": "assets/images/A.jpg"
@@ -24,7 +24,7 @@
             "name": "Samsung Galaxy Z Fold",
             "price": "656,999",
             "description": "Samsung will bring the new Galaxy Z 5 Fold in near future. We learned from a Korean blog that Samsung is already working on a foldable smartphone, which will be Samsung's Galaxy Z Fold 5. Furthermore, we will share the exciting features and specifications with you today. Let's expose this beast. As we know there will be massive dual Foldable Dynamic AMOLED 2X Capacitive Touchscreen screens on this Samsung Z Fold 5. Screen size may be 7.6 inches, which will support a full HD+ resolution of 1812 x 2176 pixels. The display is",
-            "image": "assets/images/S.jpg"
+            "image": "assets/images/A.jpg"
         },
         {
             "name": "Samsung Galaxy Z Fold 6",
